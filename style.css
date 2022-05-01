@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   background-color: white;
+   border: solid purple;
+   border-radius: 7;
+   border-width: 10px;
+}
+
